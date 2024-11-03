@@ -26,25 +26,25 @@
 ![img](doc/About.png)
 <br> <br>
 
-## Ini adalah tampilan About Page
+## Ini adalah tampilan Contact Page
 <br>
 
 ![img](doc/Contact.png)
 <br> <br>
 
-## Ini adalah tampilan About Page
+## Ini adalah tampilan Database Page
 <br>
 
 ![img](doc/Database.png)
 <br> <br>
 
-## Ini adalah tampilan About Page
+## Ini adalah tampilan Form Page
 <br>
 
 ![img](doc/Form.png)
 <br> <br>
 
-## Ini adalah tampilan About Page
+## Ini adalah tampilan Error Page
 <br>
 
 ![img](doc/Error.png)
