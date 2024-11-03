@@ -18,31 +18,31 @@
 <br>
 
 ![img](doc/Home.png)
-
+<br> <br>
 
 ## Ini adalah tampilan About Page
 <br>
 
 ![img](doc/About.png)
-
+<br> <br>
 
 ## Ini adalah tampilan About Page
 <br>
 
 ![img](doc/Contact.png)
-
+<br> <br>
 
 ## Ini adalah tampilan About Page
 <br>
 
 ![img](doc/Database.png)
-
+<br> <br>
 
 ## Ini adalah tampilan About Page
 <br>
 
 ![img](doc/Form.png)
-
+<br> <br>
 
 ## Ini adalah tampilan About Page
 <br>
