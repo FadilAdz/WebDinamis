@@ -14,37 +14,37 @@
 
 
 
-## Ini adalah tampilan Home Page
+# $${\color{lightblue}Home-Page}$$
 <br>
 
 ![img](doc/Home.png)
-<br> <br>
+<br> <br> <br>
 
-## Ini adalah tampilan About Page
+# $${\color{lightblue}About-Page}$$
 <br>
 
 ![img](doc/About.png)
-<br> <br>
+<br> <br> <br>
 
-## Ini adalah tampilan Contact Page
+# $${\color{lightblue}Contact-Page}$$
 <br>
 
 ![img](doc/Contact.png)
-<br> <br>
+<br> <br> <br>
 
-## Ini adalah tampilan Database Page
+# $${\color{lightblue}Database-Page}$$
 <br>
 
 ![img](doc/Database.png)
-<br> <br>
+<br> <br> <br>
 
-## Ini adalah tampilan Form Page
+# $${\color{lightblue}Form-Page}$$
 <br>
 
 ![img](doc/Form.png)
-<br> <br>
+<br> <br> <br>
 
-## Ini adalah tampilan Error Page
+# $${\color{lightblue}Error-Page}$$
 <br>
 
 ![img](doc/Error.png)
