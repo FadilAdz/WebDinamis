@@ -1,7 +1,8 @@
 # WebDinamis
 ## UTS Pemrograman Web 1
 
-## PROFIL
+<br>
+
 | Variable           |             Isi            |
 | -------------------|----------------------------|
 | **Nama**           |         Fadil Aditya Adzima    |
